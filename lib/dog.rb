@@ -10,7 +10,7 @@ class Dog
   def breed
     @breed
   end
-  
+
   if !@breed
     return "Mutt"
   end
